@@ -1,4 +1,4 @@
-# ☀️ Sun Rider v1.0 for M5Stack Cardputer ☀️
+# ☀️ Sun Rider for M5Stack Cardputer ☀️
 
 **A 2D physics-based side-scrolling driving game with procedurally generated terrain.**
 
