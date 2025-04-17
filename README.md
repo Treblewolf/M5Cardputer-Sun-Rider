@@ -20,7 +20,7 @@
     * Endless, varied landscape generated on-the-fly using line segments.
     * Checkpoints mark distance milestones.
       
-* **Dynamic Backgrounds:**
+* 🖼️ **Dynamic Backgrounds:**
     * Parallax scrolling Starfield, Nebula, and Meteor Shower effects.
     * Smooth transitions between background types based on distance traveled.
       
