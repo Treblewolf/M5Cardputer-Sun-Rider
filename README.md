@@ -3,7 +3,8 @@
 **A 2D physics-based side-scrolling driving game with procedurally generated terrain.**
 
 * An alien has depleted his magic goo fuel, and now has to use petrol like a real man. <em>Unfortunately the fumes got the best of him and now he's on an endless voyage to get sober.</em>🌌
-
+  
+* Available in M5Burner and M5Launcher!
 ## Features
 ![sunrider_menu](https://github.com/user-attachments/assets/e329ece9-9d46-428a-bdf4-8a3ec3cb84cd)
 ![sunrider_game](https://github.com/user-attachments/assets/5f3f97ad-3f9b-45c8-b077-4f4bfdeab9d5) 
@@ -59,7 +60,6 @@
 ## 🛠️ Building & Installation
 
 This project is designed for the M5Stack Cardputer.
-
 1.  **Prerequisites:**
     * [Arduino IDE](https://www.arduino.cc/en/software) or [PlatformIO](https://platformio.org/) installed. 💻
     * M5Stack Board definitions installed for your IDE.
